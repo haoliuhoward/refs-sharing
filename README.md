@@ -1,7 +1,7 @@
 bibi-sharing
 =======
 
-A repository for bib refs.
+A repository for bib refs, inspired by Shahryar Minhas's [whistle project](https://github.com/s7minhas/whistle?tab=readme-ov-file#whistle)
 
 ## Adding to the file 
 
