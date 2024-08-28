@@ -1,4 +1,4 @@
-# bibi-sharing
+bibi-sharing
 =======
 
 A repository for bib refs.
