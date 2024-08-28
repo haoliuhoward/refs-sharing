@@ -1,11 +1,12 @@
 bibi-sharing
 =======
 
-A repository for bib refs, inspired by Shahryar Minhas's [whistle project](https://github.com/s7minhas/whistle?tab=readme-ov-file#whistle)
+A repository for bib refs, inspired by Shahryar Minhas's [whistle project](https://github.com/s7minhas/whistle?tab=readme-ov-file#whistle).
+This repo only contains refs related to repression studies, broadly defined.
 
 ## Adding to the file 
 
-New additions should abide the following rules
+New additions should abide the following rules:
 
 ### Only use relevant fields
 
