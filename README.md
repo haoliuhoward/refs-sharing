@@ -23,6 +23,8 @@ Don't link to PDFs on your laptop
 
 ### citation index values
 
+The first word on the paper title is included to avoid mistakes in citations when people share the same common last name and publish in the same year.
+
 `lastname1stauthor:yearFirstWordOnTitle`  (all lower)(one author) 
 liu:2022dissent (for Liu (2022))
 
@@ -32,7 +34,7 @@ liu:Sullivan:2020and (for Liu and Sullivan (2020))
 
 `lastname1stauthor:etal:yearFirstWordOnTitle`   (more than two authors) 
 
-liu:etal:2020predicting  (for Kim, Liu, Desmarais (2020))
+liu:etal:2023spatial  (for Kim, Liu, Desmarais (2023))
 
 ### Author names and initials 
 
