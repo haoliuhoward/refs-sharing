@@ -34,7 +34,7 @@ liu:Sullivan:2020and (for Liu and Sullivan (2020))
 
 `lastname1stauthor:etal:yearFirstWordOnTitle`   (more than two authors) 
 
-liu:etal:2023spatial  (for Kim, Liu, Desmarais (2023))
+kim:etal:2023spatial  (for Kim, Liu, Desmarais (2023))
 
 ### Author names and initials 
 
