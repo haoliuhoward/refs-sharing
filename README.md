@@ -23,16 +23,16 @@ Don't link to PDFs on your laptop
 
 ### citation index values
 
-`lastname1stauthor:year`  (all lower)(one author) 
-liu:2020 (for Liu (2020))
+`lastname1stauthor:yearFirstWordOnTitle`  (all lower)(one author) 
+liu:2022dissent (for Liu (2022))
 
-`lastname1stauthor:lastname2ndauthor:year`  (two authors) 
+`lastname1stauthor:lastname2ndauthor:yearFirstWordOnTitle`  (two authors) 
 
-liu:Sullivan:2020 (for Liu and Sullivan (2020))
+liu:Sullivan:2020and (for Liu and Sullivan (2020))
 
-`lastname1stauthor:etal:year`   (more than two authors) 
+`lastname1stauthor:etal:yearFirstWordOnTitle`   (more than two authors) 
 
-liu:etal:2020  (for Kim, Liu, Desmarais (2020))
+liu:etal:2020predicting  (for Kim, Liu, Desmarais (2020))
 
 ### Author names and initials 
 
