@@ -23,7 +23,7 @@ Don't link to PDFs on your laptop
 
 ### citation index values
 
-The first word on the paper title is included to avoid mistakes in citations when people share the same common last name and publish in the same year.
+The first word on the paper title should be included (except articles like *the* and *a/an*) to avoid mistakes in citations when people share the same last name and publish in the same year.
 
 `lastname1stauthor:yearFirstWordOnTitle`  (all lower)(one author) 
 liu:2022dissent (for Liu (2022))
@@ -61,10 +61,10 @@ Titles should be in environment delimiters {}
 
 Actually, all fields should be in delimiters {} 
 
-Ideally, All Titles Should Be In CamelCase  
+All titles should be in Camelcase because Google Scholar tends to use it.
 
-Thus, title={A Big, Huge Idea} 
+Thus, journal title={A big, huge idea}
 
-not title={A big, huge idea}
+In contrast, Book Titles Should Be In CamelCase
 
-
+Thus, book title={A Big, Huge Idea in My Book}
