@@ -26,6 +26,7 @@ Don't link to PDFs on your laptop
 The first word on the paper title should be included (except articles like *the* and *a/an*) to avoid mistakes in citations when people share the same last name and publish in the same year.
 
 `lastname1stauthor:yearFirstWordOnTitle`  (all lower)(one author) 
+
 liu:2022dissent (for Liu (2022))
 
 `lastname1stauthor:lastname2ndauthor:yearFirstWordOnTitle`  (two authors) 
@@ -61,7 +62,7 @@ Titles should be in environment delimiters {}
 
 Actually, all fields should be in delimiters {} 
 
-All titles should be in Camelcase because Google Scholar tends to use it.
+All titles should be in Camelcase because Google Scholar tends to use it this way.
 
 Thus, journal title={A big, huge idea}
 
